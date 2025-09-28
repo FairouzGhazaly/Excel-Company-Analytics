@@ -47,7 +47,8 @@ The dataset consists of anonymized company records with the following attributes
 ## Outcome
 
 This project highlights how simple yet powerful Excel techniques can reveal customer insights that support **business decision-making** in sales, marketing, and customer profiling.
-📊 Excel File: company_data_ans.xlsx
+
+* 📊 Excel File Contains:
  * Sheet1 → Cleaned dataset ready for analysis.
  * Sheet2 → Pivot Tables and calculated results.
 
