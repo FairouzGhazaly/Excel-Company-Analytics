@@ -44,12 +44,11 @@ The dataset consists of anonymized company records with the following attributes
 * Pivot Charts and summary tables were used to visually represent insights for **business stakeholders**.
 * Clear comparative visualizations for **income ranges, regional differences, and product adoption**.
 
+## Outcome
 
-**Outcome**:
 This project highlights how simple yet powerful Excel techniques can reveal customer insights that support **business decision-making** in sales, marketing, and customer profiling.
 📊 Excel File: company_data_ans.xlsx
  * Sheet1 → Cleaned dataset ready for analysis.
-
  * Sheet2 → Pivot Tables and calculated results.
 
 
